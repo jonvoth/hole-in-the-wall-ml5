@@ -1,0 +1,12 @@
+{
+    "name": "hole-in-the-wall-ml5",
+    "description": "Hole in the Wall game with ml5",
+    "url": "",
+    "private": true,
+    "devDependencies": {
+        "http-server": "^0.11.1"
+    },
+    "scripts": {
+        "start": "http-server"
+    }
+}
